@@ -1,0 +1,92 @@
+<mxfile host="65bd71144e">
+    <diagram name="Strona-1" id="uuzlJ62Bdf4S3u6DJgPI">
+        <mxGraphModel dx="832" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-1" target="PiYGbrayp3ZZb0SFj58L-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-1" value="&lt;pre&gt;App&lt;/pre&gt;" style="html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="359" y="270" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-3" value="&lt;pre&gt;GUI&lt;/pre&gt;" style="html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="270" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-5" target="PiYGbrayp3ZZb0SFj58L-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-5" target="PiYGbrayp3ZZb0SFj58L-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-5" value="&lt;pre&gt;Comunication&lt;/pre&gt;" style="html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="400" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-7" value="&lt;pre&gt;Device&lt;/pre&gt;" style="html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="530" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-10" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-5" target="PiYGbrayp3ZZb0SFj58L-1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="330" y="390" as="sourcePoint"/>
+                        <mxPoint x="490" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-11" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-3" target="PiYGbrayp3ZZb0SFj58L-1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="425" y="410" as="sourcePoint"/>
+                        <mxPoint x="425" y="330" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-12" value="&lt;pre&gt;DataColection&lt;/pre&gt;" style="html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="350" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-13" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-5" target="PiYGbrayp3ZZb0SFj58L-12" edge="1">
+                    <mxGeometry width="60" relative="1" as="geometry">
+                        <mxPoint x="420" y="375" as="sourcePoint"/>
+                        <mxPoint x="440" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-14" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.012;exitY=0.635;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-1" target="PiYGbrayp3ZZb0SFj58L-12" edge="1">
+                    <mxGeometry width="60" relative="1" as="geometry">
+                        <mxPoint x="370" y="435" as="sourcePoint"/>
+                        <mxPoint x="330" y="290" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="300" y="300"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-15" value="&lt;pre&gt;ConfigManager&lt;/pre&gt;" style="html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="400" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-19" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-1" target="PiYGbrayp3ZZb0SFj58L-15" edge="1">
+                    <mxGeometry width="60" relative="1" as="geometry">
+                        <mxPoint x="283" y="360" as="sourcePoint"/>
+                        <mxPoint x="370" y="310" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="510" y="360"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-20" value="&lt;pre&gt;Plotter&lt;/pre&gt;" style="html=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="140" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-22" value="" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PiYGbrayp3ZZb0SFj58L-3" target="PiYGbrayp3ZZb0SFj58L-20" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="380" y="380" as="sourcePoint"/>
+                        <mxPoint x="460" y="380" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="560" y="165"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PiYGbrayp3ZZb0SFj58L-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="500" as="sourcePoint"/>
+                        <mxPoint x="720" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
