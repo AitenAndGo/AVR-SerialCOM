@@ -3,7 +3,10 @@
 This is a Python-based application for monitoring and communicating over UART (Universal Asynchronous Receiver-Transmitter) connections. The application provides a user-friendly interface for establishing connections, sending and receiving data, and visualizing the received information.
 
 ## Screenshots
+
 ![image](https://github.com/AitenAndGo/AVR-SerialCOM/assets/87769038/61ef03f9-b1b0-482e-afd5-48c979eb589a)
+
+
 ![image](https://github.com/AitenAndGo/AVR-SerialCOM/assets/87769038/27890bcc-bd70-4e15-b756-a8db521add3f)
 
 
