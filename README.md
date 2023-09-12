@@ -1,4 +1,4 @@
-# Serial Monitor Application
+# Serial Monitor Application (Beta version)
 
 This is a Python-based application for monitoring and communicating over UART (Universal Asynchronous Receiver-Transmitter) connections. The application provides a user-friendly interface for establishing connections, sending and receiving data, and visualizing the received information.
 
