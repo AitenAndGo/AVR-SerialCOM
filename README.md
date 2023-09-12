@@ -24,8 +24,11 @@ Start sending and receiving data over the UART connection.
 
 ## Dependencies
 Python 3.x
+
 customtkinter (for GUI)
+
 matplotlib (for real-time data plotting)
+
 PySerial (for serial communication)
 
 ## Contributing
